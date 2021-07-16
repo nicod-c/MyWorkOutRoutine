@@ -1,0 +1,40 @@
+@model Ejercicio
+
+@{
+    ViewData["Title"] = "Editar Ejercicio";
+}
+
+
+<h1>Editar Ejercicio: @Model.Nombre</h1>
+
+@using (@Html.BeginForm(null, null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="form-group">
+        @Html.LabelFor(m=>m.Nombre, new {@class="form-control"})
+        @Html.TextBoxFor(m=>m.Nombre)
+        @Html.ValidationMessageFor(m=>m.Nombre,"",new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m=>m.Urlvideo, new {@class="form-control"})
+        @Html.TextBoxFor(m=>m.Urlvideo)
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m=>m.MusculoId)
+        @Html.DropDownListFor(m =>m.MusculoId,
+    new SelectList(ViewBag.Musculos, "MusculoId", "Nombre"), "--Seleccionar--",
+    new { @class = "form-control"})
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m=>m.ParteDelCuerpoId)
+        @Html.DropDownListFor(m =>m.ParteDelCuerpoId,
+    new SelectList(ViewBag.PartesDelCuerpo, "ParteDelCuerpoId", "Nombre"), "--Seleccionar--",
+    new { @class = "form-control"})
+    </div>
+
+    <input type="submit" name="guardar" value="Guardar" class="btn btn-primary" />
+    <input type="submit" name="cancelar" value="Cancelar" class="btn btn-primary" />
+
+}

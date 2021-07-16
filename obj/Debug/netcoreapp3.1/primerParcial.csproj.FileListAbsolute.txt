@@ -1,0 +1,163 @@
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\primerParcial.exe
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\primerParcial.deps.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\primerParcial.runtimeconfig.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\primerParcial.runtimeconfig.dev.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\primerParcial.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\primerParcial.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\primerParcial.Views.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\primerParcial.Views.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.csprojAssemblyReference.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.AssemblyInfoInputs.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.AssemblyInfo.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.csproj.CoreCompileInputs.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.RazorAssemblyInfo.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.RazorAssemblyInfo.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.TagHelpers.input.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.TagHelpers.output.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.RazorCoreGenerate.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.RazorTargetAssemblyInfo.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.RazorTargetAssemblyInfo.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.Views.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\staticwebassets\primerParcial.StaticWebAssets.Manifest.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\staticwebassets\primerParcial.StaticWebAssets.xml
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.genruntimeconfig.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.csproj.CopyComplete
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Listado.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\libman.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Editar.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Mostrar.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Nuevo.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\primerParcial.MvcApplicationPartsAssemblyInfo.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\scopedcss\bundle\primerParcial.styles.css
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Ejercicios\Listado.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Ejercicios\Editar.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Ejercicios\Nuevo.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Dia\Listado.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Rutinas\Nueva.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Rutinas\Listado.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Rutinas\Mostrar.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial\obj\Debug\netcoreapp3.1\Razor\Views\Dia\Nuevo.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.AssemblyInfoInputs.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.AssemblyInfo.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.csproj.CoreCompileInputs.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.MvcApplicationPartsAssemblyInfo.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.MvcApplicationPartsAssemblyInfo.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.RazorAssemblyInfo.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.RazorAssemblyInfo.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\staticwebassets\primerParcial.StaticWebAssets.Manifest.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\staticwebassets\primerParcial.StaticWebAssets.xml
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\scopedcss\bundle\primerParcial.styles.css
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.TagHelpers.input.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.TagHelpers.output.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.RazorCoreGenerate.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Editar.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Listado.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Mostrar.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\Nuevo.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Ejercicios\Editar.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Ejercicios\Listado.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Ejercicios\Nuevo.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Rutinas\Mostrar.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Rutinas\Nueva.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.RazorTargetAssemblyInfo.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.RazorTargetAssemblyInfo.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\libman.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\primerParcial.exe
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\primerParcial.deps.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\primerParcial.runtimeconfig.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\primerParcial.runtimeconfig.dev.json
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\primerParcial.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\primerParcial.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\primerParcial.Views.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\primerParcial.Views.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\X.PagedList.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.Views.pdb
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.csproj.CopyComplete
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.genruntimeconfig.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Clientes\ListadoRutinas.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\primerParcial.csproj.AssemblyReference.cache
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutClientes.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LayoutLogin.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Dias\Listado.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Rutinas\CargarDias.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Rutinas\CargarActividad.cshtml.g.cs
+C:\Programacion_y_sistemas\ISTEA_tec_sistemas\2do_cuatri_mar21\Herramientas_de_programacion\Proyectos\primerParcial - Copy\obj\Debug\netcoreapp3.1\Razor\Views\Actividades\Editar.cshtml.g.cs

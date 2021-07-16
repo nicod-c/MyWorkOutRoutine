@@ -1,0 +1,78 @@
+@model X.PagedList.PagedList<Ejercicio>;
+@using X.PagedList.Mvc;
+@using X.PagedList.Mvc.Core;
+@using System.Linq;
+
+@{
+    ViewData["Title"] = "Ejercicios";
+}
+
+@functions {
+    string MostrarVideoYouTube(string Urlvideo)
+    {
+        <iframe width="280" height="160" src="@Urlvideo" title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+
+        return string.Empty;
+    }
+
+
+}
+<button class="fas fa-plus" , style="float: right; background-color: yellow; color: white; border:solid-blue;
+    margin-top: 1rem;">
+    @Html.ActionLink("Nuevo","Nuevo")
+</button>
+
+<h1>Ejercicios</h1>
+
+@using (Html.BeginForm())
+{
+    <p>
+        Buscar ejercicio: @Html.TextBox("campobusqueda")
+        <input type="submit" value="Buscar" class="btn btn-primary" />
+    </p>
+}
+
+
+<table class="table table-hover " style="text-align: center; padding-top: 1rem">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Ejercicio</th>
+            <th scope="col">Video</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+
+        {
+            <tr>
+                <td style="vertical-align: middle">@item.EjercicioId</td>
+                <td style="vertical-align: middle">@item.Nombre</td>
+                <td style="vertical-align: middle">
+                    @MostrarVideoYouTube(@item.Urlvideo)
+                </td>
+
+                <td style="vertical-align: middle">
+                    @Html.ActionLink("", "Editar", new{id = item.EjercicioId}
+                ,new {@class="far fa-edit"})
+                    @Html.ActionLink("", "Borrar", new{id = item.EjercicioId}
+                ,new {@class="fas fa-trash-alt"})
+                </td>
+            </tr>
+        }
+    </tbody>
+
+</table>
+
+<div style="display: flex; justify-content: center">
+    Página @(Model.PageCount <Model.PageNumber ? 0: Model.PageNumber) de @Model.PageCount
+</div>
+@Html.PagedListPager(Model, pagina => Url.Action("Listado",
+new {pagina,sortOrder=ViewBag.CurrentSort , currentFilter=ViewBag.currentFilter }),
+new X.PagedList.Mvc.Core.Common.PagedListRenderOptions{
+ContainerDivClasses=new[] {"pagination justify-content-center"},
+PageClasses=new[] {"page-link"},
+LiElementClasses=Enumerable.Empty<string>()
+})

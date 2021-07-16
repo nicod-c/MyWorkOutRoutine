@@ -1,0 +1,58 @@
+@model Cliente
+
+@{
+    ViewData["Title"] = "Cliente";
+}
+
+
+<div style="display: flex;
+    justify-content: space-around;
+    padding-top: 2rem;">
+    <div class="card" style="width: 18rem; ">
+        <img src='@Url.Content("~/imagenes/" + @Model.FotoRuta)' , class="card-img-top" alt="...">
+        <div class="card-body">
+            <h5 class="card-title">@Model.Nombre @Model.Apellido</h5>
+            <p class="card-text">Cliente n°: @Model.DNI<br>
+                Fecha de Inscripción: @Model.fechaInscripcion.ToString("dd/MM/yyyy")
+            </p>
+        </div>
+        <ul class="list-group list-group-flush" style="list-style-type: none;">
+            <li class="list-group-item">Edad: @Model.Edad</li>
+            <li class="list-group-item">Peso: @Model.Altura</li>
+            <li class="list-group-item">Altura: @Model.Altura</li>
+            <li class="list-group-item">Objetivo: @Model.Objetivo.Nombre</li>
+            <li class="nav-item dropdown" style="margin-left: 0.3rem;">
+                <a class="nav-link dropdown-toggle text-dark" href="#" id="navbarDropdown" role="button"
+                    data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    Rutinas</a>
+                <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+                    @foreach (var item in Model.Rutinas)
+                    {
+                        <li class="dropdown-item">@Html.ActionLink(@item.fechaInicio.ToString("dd/MM/yyyy"), "Mostrar",
+                        "Rutinas", new{id=item.RutinaId}, new{@style="color: black"})
+                        </li>
+                    }
+                    <li>
+                        <hr class="dropdown-divider">
+                    </li>
+                    <li class="dropdown-item">@Html.ActionLink("Nueva", "Nueva", "Rutinas", new{dni=Model.DNI},
+                        new{@style="text-decoration: none"})
+                    </li>
+                </ul>
+            </li>
+        </ul>
+
+        <div class="card-body" style=" display: flex; align-items: center; justify-content: center;">
+            @Html.ActionLink("", "Editar", new{dni=Model.DNI}
+            ,new {@class="far fa-edit fa-2x"})
+            @Html.ActionLink("", "Borrar", new{dni = Model.DNI}
+            ,new {@class="fas fa-trash-alt fa-2x"})
+        </div>
+    </div>
+</div>
+<div style="display: flex; justify-content: center; padding-top: 0.5rem;">
+    @using (@Html.BeginForm())
+    {
+        <input type="submit" name="volver" class="btn btn-primary" value="Volver">
+    }
+</div>

@@ -1,0 +1,59 @@
+@model Rutina
+
+@{
+    ViewData["Title"] = "Rutina";
+}
+
+@functions{
+    string MostrarVideoYouTube(string Urlvideo)
+    {
+        <iframe width="280" height="160" src="@Urlvideo" title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen></iframe>
+
+        return string.Empty;
+    }
+
+}
+
+<h2>Rutina del @Model.fechaInicio.ToString("dd/MM/yyyy") al @Model.fechaFin.ToString("dd/MM/yyyy")
+    de @Model.Cliente.Nombre @Model.Cliente.Apellido
+</h2>
+
+<div class="accordion accordion-flush" id="accordionFlushExample">
+@foreach (var dia in Model.Dias)
+{
+    <h3>Día @dia.Numero</h3>
+    <table class="table table-success table-hover" style="text-align: center; padding-top: 1rem">
+        <thead>
+            <tr>
+                <th scope="col">Ejercicio</th>
+                <th scope="col">Músculo</th>
+                <th scope="col">Series</th>
+                <th scope="col">Repeticiones</th>
+                <th scope="col">Observaciones</th>
+                <th scope="col">Video</th>
+            </tr>
+        </thead>
+        <tbody> 
+            @foreach (var actividad in dia.Actividades)
+            {
+                <tr>
+                   <th scope="row" style="vertical-align: middle">@actividad.Ejercicio.Nombre</th>
+                    <td style="vertical-align: middle">@actividad.Ejercicio.Musculo.Nombre</td>
+                    <td style="vertical-align: middle">@actividad.cantSeries</td>
+                    <td style="vertical-align: middle">@actividad.cantRepeticiones</td>
+                    <td style="vertical-align: middle">@actividad.Observaciones</td>
+                    <td>@MostrarVideoYouTube(@actividad.Ejercicio.Urlvideo)</td>
+                </tr>
+            }
+            
+        </tbody>
+    </table>
+}
+
+<div style="float: right;">
+    <button class="btn btn-primary">
+        @Html.ActionLink("Volver","ListadoRutinas","Clientes", new{dni = Model.Cliente.DNI}, new{@style="color: white"})
+    </button>
+</div>

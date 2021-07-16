@@ -1,0 +1,51 @@
+@model Rutina
+
+@{
+    ViewData["Title"] = "Nueva Rutina";
+}
+
+<h2 style="text-align: center">Cargando rutina para @Model.Cliente.Nombre @Model.Cliente.Apellido</h2>
+<br>
+@using (@Html.BeginForm())
+{
+
+
+    foreach (var dia in Model.Dias)
+    {
+
+        <div class="row">
+            <div class="col">
+                <h4>Día @dia.Numero</h4>
+                <div class="list-group">
+                    <ul class="list-group list-group-flush">
+                        @foreach (var actividad in @dia.Actividades)
+                        {
+                            <li class="list-group-item list-group-item-action d-flex justify-content-between align-items-center">
+                                @actividad.Ejercicio.Nombre -
+                                @actividad.cantSeries Series de @actividad.cantRepeticiones repeticiones cada una
+                                <span>@Html.ActionLink("", "Borrar", "Actividades", new{id = actividad.ActividadId},new{@class="fas fa-trash-alt"})</span>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
+        </div>
+
+        <div style="float: right">
+            @Html.ActionLink("Agregar Ejercicio","CargarActividad","Rutinas", new{diaId = dia.DiaId})
+        </div>
+        <br>
+        <br>
+
+    }
+
+
+
+    <button class="btn btn-primary">
+        @Html.ActionLink("Volver","ListadoRutinas","Clientes", new{dni = Model.Cliente.DNI}, new{@style="color: white"})
+    </button>
+
+    <button class="btn btn-primary">
+        @Html.ActionLink("Guardar","Mostrar","Rutinas", new{id = Model.RutinaId}, new{@style="color: white"})
+    </button>
+}

@@ -1,0 +1,35 @@
+@model primerParcial.Models.VM.EjercicioVM
+
+@{
+    ViewData["Title"] = "Nuevo Ejercicio";
+}
+
+<h1>Cargar nuevo ejercicio</h1>
+
+
+@using (@Html.BeginForm())
+{
+    <div class="form-group">
+        @Html.LabelFor(m=>m.Ejercicio.Nombre)
+        @Html.TextBoxFor(m=>m.Ejercicio.Nombre, new {@class="form-control"})
+    </div> 
+    <div class="form-group">
+        @Html.LabelFor(m=>m.Ejercicio.MusculoId)
+        @Html.DropDownListFor(m =>m.Ejercicio.MusculoId,
+    new SelectList(Model.Musculos, "MusculoId", "Nombre"), "--Seleccionar--",
+    new { @class = "form-control"})
+    </div> 
+    <div class="form-group">
+        @Html.LabelFor(m=>m.Ejercicio.ParteDelCuerpoId)
+        @Html.DropDownListFor(m =>m.Ejercicio.ParteDelCuerpoId,
+    new SelectList(Model.PartesDelCuerpo, "ParteDelCuerpoId", "Nombre"), "--Seleccionar--",
+    new { @class = "form-control"})
+    </div> 
+    <div class="form-group">
+        @Html.LabelFor(m=>m.Ejercicio.Urlvideo)
+        @Html.TextBoxFor(m=>m.Ejercicio.Urlvideo, new {@class="form-control"})
+    </div>
+
+    <input type="submit" name="guardar" value="Guardar" class="btn btn-primary" />
+    <input type="submit" name="cancelar" value="Cancelar" class="btn btn-primary" />
+}

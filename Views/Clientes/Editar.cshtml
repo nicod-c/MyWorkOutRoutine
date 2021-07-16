@@ -1,0 +1,68 @@
+@model Cliente
+@{
+    ViewData["Title"] = "Editar Cliente";
+}
+
+
+<h1>Editar Cliente</h1>
+
+@using (@Html.BeginForm(null, null, FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div class="form-group">
+        @Html.LabelFor(m=>m.Nombre, new {@class="form-control"})
+        @Html.TextBoxFor(m=>m.Nombre)
+        @Html.ValidationMessageFor(m=>m.Nombre,"",new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m=>m.Apellido, new {@class="form-control"})
+        @Html.TextBoxFor(m=>m.Apellido)
+        @Html.ValidationMessageFor(m=>m.Apellido,"",new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m=>m.fechaNac, new {@class="form-control"})
+        @Html.TextBoxFor(m=>m.fechaNac)
+        @Html.ValidationMessageFor(m=>m.fechaNac,"",new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m=>m.DNI, new {@class="form-control"})
+        @Html.TextBoxFor(m=>m.DNI, new {@class="form-control", @readonly="readonly"})
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m=>m.fechaInscripcion, new {@class="form-control"})
+        @Html.TextBoxFor(m=>m.fechaInscripcion, new {@class="form-control", @readonly="readonly"})
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m=>m.Peso, new {@class="form-control"})
+        @Html.TextBoxFor(m=>m.Peso)
+        @Html.ValidationMessageFor(m=>m.Peso,"",new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m=>m.Altura, new {@class="form-control"})
+        @Html.TextBoxFor(m=>m.Altura)
+        @Html.ValidationMessageFor(m=>m.Altura,"",new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(m=>m.ObjetivoId)
+        @Html.DropDownListFor(m => m.ObjetivoId,
+    new SelectList(ViewBag.Objetivos, "ObjetivoId", "Nombre"), "--Seleccionar--",
+    new { @class = "form-control"})
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(p=>p.Foto)
+        <div class="custom-file">
+            @Html.TextBoxFor(p=>p.Foto,new {type="file",@class="form-control custom-file-input"})
+            @Html.LabelFor(p=>p.Foto,"Seleccionar Foto",new {@class="custom-file-label"})
+        </div>
+    </div>
+
+    <input type="submit" name="guardar" class="btn btn-primary" value="Guardar Datos">
+    <input type="submit" name="cancelar" class="btn btn-primary" value="Cancelar">
+}

@@ -1,0 +1,79 @@
+@model X.PagedList.PagedList<Cliente>;
+@using X.PagedList.Mvc;
+@using X.PagedList.Mvc.Core;
+
+@{
+    ViewData["Title"] = "Lista de Clientes";
+}
+
+
+@functions{
+    string MostrarFoto(string FotoRuta)
+    {
+        <img src='@Url.Content("~/imagenes/" + @FotoRuta)' class="rounded-circle" style="width:75px; height: 75px; " />
+        return string.Empty;
+    }
+
+}
+<div style="float: right;">
+    <button class="fas fa-plus" style="float: right; background-color: yellow; color: white; border:solid-blue;
+    margin-top: 1rem;">
+        @Html.ActionLink("Nuevo","Nuevo")
+    </button>
+</div>
+
+<h1>Clientes</h1>
+
+<table class="table table-hover " style="text-align: center; padding-top: 1rem">
+    <thead>
+        <tr>
+            <th scope="col"></th>
+            <th scope="col">@Html.ActionLink("Nombre", "Listado", new
+                {ordenpor="ordenpornombre"}, new {@class="fas fa-sort"})</th>
+            <th scope="col">@Html.ActionLink("Apellido", "Listado", new {ordenpor="ordenporapellido"}, new
+                {@class="fas fa-sort"})
+            </th>
+            <th scope="col">@Html.ActionLink("N° Cliente", "Listado", new {ordenpor="ordenpornumero"}, new
+                {@class="fas fa-sort"})
+            </th>
+            <th scope="col">Rutinas</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+
+        {
+            <tr>
+                <td style="vertical-align: middle">
+                    @MostrarFoto(@item.FotoRuta)
+                </td>
+                <td style="vertical-align: middle">@item.Nombre</td>
+                <td style="vertical-align: middle">@item.Apellido</td>
+                <th scope="row" style="vertical-align: middle">@item.DNI</th>
+                <td style="vertical-align: middle">@Html.ActionLink("Ver Rutinas", "ListadoRutinas", new{dni = item.DNI})
+                </td>
+                <td style="vertical-align: middle">
+                    @Html.ActionLink("", "Editar", new{dni = item.DNI}
+                ,new {@class="far fa-edit"})
+                    @Html.ActionLink("", "Borrar", new{dni = item.DNI}
+                ,new {@class="fas fa-trash-alt"})
+                    @Html.ActionLink("", "Mostrar", new{dni = item.DNI}
+                ,new {@class="far fa-eye"})
+                </td>
+            </tr>
+
+        }
+    </tbody>
+
+</table>
+
+
+<div style="display: flex; justify-content: center">
+    Página @(Model.PageCount <Model.PageNumber ? 0: Model.PageNumber) de @Model.PageCount
+</div>
+@Html.PagedListPager(Model, pagina => Url.Action("Listado",
+new {pagina,sortOrder=ViewBag.CurrentSort , currentFilter=ViewBag.currentFilter }),
+new X.PagedList.Mvc.Core.Common.PagedListRenderOptions{
+ContainerDivClasses=new[] {"pagination justify-content-center"},
+PageClasses=new[] {"page-link"},
+LiElementClasses=Enumerable.Empty<string>()})

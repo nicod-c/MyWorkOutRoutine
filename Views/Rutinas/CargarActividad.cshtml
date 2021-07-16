@@ -1,0 +1,40 @@
+@model Actividad
+
+@{
+    ViewData["Title"] = "Cargar ejercicio";
+}
+
+@using (@Html.BeginForm()){
+
+ <div class="form-group">
+        @Html.LabelFor(m=>m.EjercicioId)
+        @Html.DropDownListFor(m=>m.EjercicioId,
+    new SelectList(ViewBag.Ejercicios, "EjercicioId", "Nombre"), "--Seleccionar--",
+    new { @class = "form-control"})
+    </div> 
+
+    <div class="form-group">
+        @Html.LabelFor(a => a.cantSeries, new {@class="form-control"})
+        @Html.TextBoxFor(m=>m.cantSeries)
+        @Html.ValidationMessageFor(m=>m.cantSeries,"",new { @class = "text-danger" })
+    </div>
+
+     <div class="form-group">
+        @Html.LabelFor(a => a.cantRepeticiones, new {@class="form-control"})
+        @Html.TextBoxFor(m=>m.cantRepeticiones)
+        @Html.ValidationMessageFor(m=>m.cantRepeticiones,"",new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(a => a.Observaciones, new {@class="form-control"})
+        @Html.TextBoxFor(m=>m.Observaciones)
+        @Html.ValidationMessageFor(m=>m.Observaciones,"",new { @class = "text-danger" })
+    </div>
+
+
+<input type="submit" name="volver" class="btn btn-primary" value="Volver">
+<input type="submit" name="guardar" class="btn btn-primary" value="Guardar">
+<input type="submit" name="adicionar" class="btn btn-primary" value="Adicionar ejercicio">
+
+}
+

@@ -1,0 +1,56 @@
+@model Cliente
+
+@{
+    ViewData["Title"] = "Rutinas";
+}
+
+<h1 style="Text-align: center;">Rutinas de @Model.Nombre @Model.Apellido</h1>
+
+
+<table class="table table-hover " style="text-align: center; padding-top: 1rem">
+    <thead>
+        <tr>
+            <th scope="col">ID</th>
+            <th scope="col">Fecha de inicio</th>
+            <th scope="col">Fecha de finalización</th>
+            <th scope="col">Cantidad de días por semana</th>
+            <th scope="col"></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Rutinas)
+        {
+            <tr>
+                <td style="vertical-align: middle">
+                    @item.RutinaId
+                </td>
+                <td style="vertical-align: middle">
+                    @item.fechaInicio.ToString("dd/MM/yyyy")
+                </td>
+                <td style="vertical-align: middle">@item.fechaFin.ToString("dd/MM/yyyy")</td>
+                <td style="vertical-align: middle">@item.cantDiasporSemana</td>
+                <td style="vertical-align: middle">
+                    @Html.ActionLink("", "CargarDias", "Rutinas", new{rutinaid = item.RutinaId}
+                ,new {@class="far fa-edit"})
+                    @Html.ActionLink("", "Borrar", "Rutinas", new{id = item.RutinaId, dni = Model.DNI}
+                ,new {@class="fas fa-trash-alt"})
+                    @Html.ActionLink("", "Mostrar", "Rutinas", new{id = item.RutinaId}
+                ,new {@class="far fa-eye"})
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div style="display: flex; justify-content: space-around; padding-left: 40%; padding-right: 40%">
+
+    <button class="btn btn-primary" style="color: white;">
+        @Html.ActionLink("Nueva rutina","Nueva", "Rutinas", new{dni = Model.DNI},new{@style="color: white"})
+    </button>
+
+    @using (@Html.BeginForm())
+    {
+        <input type="submit" name="volver" class="btn btn-primary" value="Volver">
+    }
+
+</div>
